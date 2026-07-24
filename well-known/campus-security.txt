@@ -1,0 +1,5 @@
+Canonical: https://campus.edu/.well-known/security.txt
+Contact: mailto:security@campus.edu
+Expires: 2026-12-31T23:59:00Z
+Hiring: https://jobs.ashbyhq.com/Campus?departmentId=dc313ba6-9bd2-43d4-ad2a-075537b56b0d
+Preferred-Languages: en-US
